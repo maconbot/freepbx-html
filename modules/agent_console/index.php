@@ -521,7 +521,7 @@ function manejarSesionActiva($module_name, &$smarty, $sDirLocalPlantillas)
             Header('Location: ?menu='.$module_name);
             $sContenido = '';
         } else {
-            //$sContenido = manejarSesionActiva_HTML($module_name, $smarty, $sDirLocalPlantillas, $oPaloConsola, $estado);
+            $sContenido = manejarSesionActiva_HTML($module_name, $smarty, $sDirLocalPlantillas, $oPaloConsola, $estado);
         }
         break;
     }
