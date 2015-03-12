@@ -1,0 +1,12 @@
+[12-Feb-2015 06:24:15] PHP Warning:  setcookie() expects at most 6 parameters, 7 given in /var/www/html/mail/program/include/rcmail.php on line 1077
+[12-Feb-2015 06:24:15 -0500]: IMAP Error: Empty password (GET /mail/)
+[12-Feb-2015 06:24:15] PHP Warning:  setcookie() expects at most 6 parameters, 7 given in /var/www/html/mail/program/include/rcmail.php on line 1077
+[12-Feb-2015 06:24:41] PHP Warning:  setcookie() expects at most 6 parameters, 7 given in /var/www/html/mail/program/include/rcmail.php on line 1077
+[12-Feb-2015 06:24:41 -0500]: IMAP Error: Empty password (GET /mail/)
+[12-Feb-2015 06:24:41] PHP Warning:  setcookie() expects at most 6 parameters, 7 given in /var/www/html/mail/program/include/rcmail.php on line 1077
+[19-Feb-2015 03:27:20] PHP Warning:  setcookie() expects at most 6 parameters, 7 given in /var/www/html/mail/program/include/rcmail.php on line 1077
+[19-Feb-2015 03:27:20 -0500]: IMAP Error: Empty password (GET /mail/)
+[19-Feb-2015 03:27:20] PHP Warning:  setcookie() expects at most 6 parameters, 7 given in /var/www/html/mail/program/include/rcmail.php on line 1077
+[19-Feb-2015 03:27:26] PHP Warning:  setcookie() expects at most 6 parameters, 7 given in /var/www/html/mail/program/include/rcmail.php on line 1077
+[19-Feb-2015 03:27:26 -0500]: IMAP Error: Empty password (GET /mail/)
+[19-Feb-2015 03:27:26] PHP Warning:  setcookie() expects at most 6 parameters, 7 given in /var/www/html/mail/program/include/rcmail.php on line 1077
